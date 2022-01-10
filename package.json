@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "Sandra Caceres",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
     "if-env": "^1.0.4"
